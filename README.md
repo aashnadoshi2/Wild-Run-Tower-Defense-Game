@@ -28,4 +28,4 @@ The game is developed in Arduino, a choice reflecting the educational objective 
 - **Final Boss and Victory Conditions:** The culmination of the game features a formidable final boss. Defeating this enemy results in a victory, with the game providing statistics and the option to restart or exit.
 
 ## Conclusion
-This project is designed to challenge students' programming skills and strategic thinking, offering a comprehensive experience from initial concept to final implementation. The use of Arduino as the development platform underscores the project's emphasis on practical, hands-on learning, bridging the gap between theoretical knowledge and applied technical skills.
+This project was designed to showcase programming skills and strategic thinking, offering a comprehensive experience from initial concept to final implementation. The use of Arduino as the development platform underscores the project's emphasis on practical, hands-on learning, bridging the gap between theoretical knowledge and applied technical skills.

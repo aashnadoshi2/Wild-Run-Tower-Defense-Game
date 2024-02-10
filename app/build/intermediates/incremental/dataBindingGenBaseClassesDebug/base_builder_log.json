@@ -1,0 +1,49 @@
+{
+  "dependencies": {},
+  "class_names_log": {
+    "mappings": {
+      "activity_buy_screen": {
+        "qualified_name": "com.example.myapp.databinding.ActivityBuyScreenBinding",
+        "module_package": "com.example.myapp.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_configuration_screen": {
+        "qualified_name": "com.example.myapp.databinding.ActivityConfigurationScreenBinding",
+        "module_package": "com.example.myapp.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_game_over_screen": {
+        "qualified_name": "com.example.myapp.databinding.ActivityGameOverScreenBinding",
+        "module_package": "com.example.myapp.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_game_screen": {
+        "qualified_name": "com.example.myapp.databinding.ActivityGameScreenBinding",
+        "module_package": "com.example.myapp.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_main": {
+        "qualified_name": "com.example.myapp.databinding.ActivityMainBinding",
+        "module_package": "com.example.myapp.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_upgrade_screen": {
+        "qualified_name": "com.example.myapp.databinding.ActivityUpgradeScreenBinding",
+        "module_package": "com.example.myapp.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_winning_screen": {
+        "qualified_name": "com.example.myapp.databinding.ActivityWinningScreenBinding",
+        "module_package": "com.example.myapp.databinding",
+        "variables": {},
+        "implementations": []
+      }
+    }
+  }
+}

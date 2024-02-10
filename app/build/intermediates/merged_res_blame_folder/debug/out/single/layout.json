@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_upgrade_screen.xml",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_upgrade_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_game_screen.xml",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_game_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_game_over_screen.xml",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_game_over_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_winning_screen.xml",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_winning_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_buy_screen.xml",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_buy_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_configuration_screen.xml",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_configuration_screen.xml"
+    }
+]

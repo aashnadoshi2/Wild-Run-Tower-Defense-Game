@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_advanced_tower_attack.png.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\advanced_tower_attack.png"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_desertmap.jpg.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\desertmap.jpg"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_configuration_screen.xml.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_configuration_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_upgrade_basic.png.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\upgrade_basic.png"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_enemy2.jpeg.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\enemy2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_monument.png.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\monument.png"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_final_boss.jpg.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\final_boss.jpg"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_upgrade_screen.xml.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_upgrade_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_game_map.png.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\game_map.png"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_enemy.png.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\enemy.png"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_game_over_screen.xml.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_game_over_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_game_screen.xml.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_game_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_enemy3.jpeg.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\enemy3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_basic_tower_attack.png.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\basic_tower_attack.png"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_intermediate_tower_attack.png.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\intermediate_tower_attack.png"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_upgrade_intermediate.png.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\upgrade_intermediate.png"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_upgrade_advanced.png.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\upgrade_advanced.png"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_basic_tower.PNG.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\basic_tower.PNG"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_advanced_tower.PNG.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\advanced_tower.PNG"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_winning_screen.xml.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_winning_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_desert.png.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\desert.png"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_buy_screen.xml.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\layout\\activity_buy_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nibha\\Downloads\\M5\\app\\build\\intermediates\\merged_res\\debug\\drawable_intermediate_tower.PNG.flat",
+        "source": "C:\\Users\\nibha\\Downloads\\M5\\app\\src\\main\\res\\drawable\\intermediate_tower.PNG"
+    }
+]

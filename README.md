@@ -1,4 +1,4 @@
-# Semester Project Overview
+# Tower Defense Game Overview
 
 ## Project Description
 This project involves the development of a tower defense game, designed to provide students with a comprehensive understanding of programming concepts and the application of development methodologies. The game incorporates a series of progressively challenging requirements that cover game initialization, user interaction, gameplay mechanics, and combat scenarios. Although structured in a manner akin to the Waterfall Development model, flexibility is maintained to accommodate necessary adjustments throughout the semester.
